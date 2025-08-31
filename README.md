@@ -67,7 +67,7 @@ Some visual insights from the analysis:
 
 I’m Rohit, an aspiring Data Analyst → Data Scientist, passionate about solving business problems using data.
 
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/rohit-dhiman-258471140)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-dhiman-258471140)
 - 📂 [Check more of my projects on GitHub](https://github.com/Rohitd1907)
 
 ## ✨ If you found this project insightful, feel free to ⭐ the repo and connect with me on LinkedIn!
