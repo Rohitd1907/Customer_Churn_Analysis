@@ -49,13 +49,13 @@ Customer-Churn-EDA/
 
 Some visual insights from the analysis:
 
-📌 ![Analysis of Numerical Data](charts/Analysis_of_Numerical_Data.png)
+![📌Analysis of Numerical Data](charts/Analysis_of_Numerical_Data.png)
 *Analysis of Tenure, Monthly Charges & Total Charges*
 
-📌 ![Churn Distribution](charts/Churn_Distribution.png)
+![📌Churn Distribution](charts/Churn_Distribution.png)
 *Churn Distribution*
 
-📌 ![Service vs Distribution](charts/Services_vs_Churn.png)
+![📌Service vs Distribution](charts/Services_vs_Churn.png)
 *Services vs Distribution*
 
 ## 🚀 Next Steps (Possible Extensions)
